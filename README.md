@@ -127,19 +127,6 @@ news_with_sentiments.csv
 
 ---
 
-## 📸 Demo
-
-> *(Add screenshots or GIFs of your Gradio interface here.)*
-
-Example:
-
-```
-assets/home.png
-assets/demo.gif
-```
-
----
-
 ## 📈 Future Improvements
 
 - 🌐 Deploy on Hugging Face Spaces
